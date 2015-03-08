@@ -1,2 +1,2 @@
 # openclass
-Pour openclassroom
+Pour openclassroom cours sur git
